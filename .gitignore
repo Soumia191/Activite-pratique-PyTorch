@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+data/
+*.pt
+*.pth
+graphe_operations.png
+graphe_operations
